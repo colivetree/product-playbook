@@ -19,53 +19,53 @@ There's also this fantastic list of everything product by Nicholas Ivanecky:
 ## The Plays
 
 ### Dreaming - The Vision
-Product brief
-Positioning
-First principles
+* Product brief
+* Positioning
+* First principles
 
 ### Starting
-Design Sprint
-Working Backwards
-Spikes
-Discovery Driven Planning
-
-### Scaling
-Job Canvas
-Product Increment
-OKRs
-
-### Defining
-Ramp Down to Real
-Positioning
-Product Kata
+* [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
+* [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
+* Spikes
 
 ### Understanding
-Kano
-User Research
-5 Whys
-Job To Be Done Interviews
-Card Sorting
+* Kano
+* User Research
+* 5 Whys
+* Job To Be Done Interviews
+* Card Sorting
+
+### Defining
+* Ramp Down to Real
+* Product Kata
+* [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
+
+
+### Scaling
+* Product Increments
+* OKRs
+* Discovery Driven Planning
 
 ## Validating
-Experiment / AB Test Design
-User Research Sessions
-Rapid Prototyping
-Dark Launches
+* Experimenting
+* User Research Sessions
+* Rapid Prototyping
+* Dark Launching
 
 ### Prioritising
-RICE
-Needs Heatmap
-Roadmapping
+* RICE
+* Needs Heatmap
+* Roadmapping
 
 ### Balancing
-Polishing sprints
-Discovery Sprints
-Dual track scrum
+* Polishing sprints
+* Discovery Sprints
+* Dual track scrum
 
 ## Daring
-20%
-LOFAs
+* 20%
+* LOFAs
 
 ## Contributing to the Product Playbook
-[format|Playbook Format]
-[guidelines|Guidelines]
+[Playbook Format]
+[Guidelines]
