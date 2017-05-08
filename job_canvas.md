@@ -24,7 +24,7 @@ o	Team Members
 * 6. Define your experiments. These can be qualitative or quantitative and you can create 3 spaces within with your current stack of riskiest assumption tests, your successes and your failures if you want to. The goal is to give you visibility into what you've done already to solve the job, what worked and what didn't and what you want to try next.
 
 ## Tips and Resources
-* [Printable Job Canvas PNG]: https://github.com/colivetree/product-playbook/raw/master/src/images/job-canvas.png "Job Canvas"
+* [Printable Job Canvas](https://github.com/colivetree/product-playbook/raw/master/images/job-canvas.png "Job Canvas")
 * [Replacing the User Story with the Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 * [Job Story Format](https://medium.com/@alanklement/definitely-interesting-thanks-for-your-input-7f05edab4250)
 * [Hypothesis Kit](http://experimentationhub.com/hypothesis-kit.html)
