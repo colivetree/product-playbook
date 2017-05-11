@@ -20,7 +20,7 @@ There's also this fantastic list of everything product by Nicholas Ivanecky:
 
 ### Dreaming - The Vision
 * Product brief
-* Positioning
+* [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
 * First principles
 
 ### Starting
@@ -41,10 +41,11 @@ There's also this fantastic list of everything product by Nicholas Ivanecky:
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 
 
-### Scaling
-* Product Increments
+### Goal Setting
+* Product Increment Sessions
 * OKRs
 * Discovery Driven Planning
+* Metric Pairing
 
 ## Validating
 * Experimenting
@@ -53,9 +54,9 @@ There's also this fantastic list of everything product by Nicholas Ivanecky:
 * Dark Launching
 
 ### Prioritising
-* RICE
+* [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
 * Needs Heatmap
-* Roadmapping
+* Technical Work Prioritisation
 
 ### Balancing
 * Polishing sprints
@@ -67,5 +68,5 @@ There's also this fantastic list of everything product by Nicholas Ivanecky:
 * LOFAs
 
 ## Contributing to the Product Playbook
-[Playbook Format]
+[Play Format](https://github.com/colivetree/product-playbook/blob/master/template.md)
 [Guidelines]
