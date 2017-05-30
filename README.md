@@ -29,22 +29,12 @@ There are also these fantastic lists of everything product:
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
 
-### Understanding
-* Kano
-* User Testing
-* Job To Be Done Interviews
-* 5 Whys
-* Card Sorting
-
-### Analysing
-* Fogg Behaviour Model
-*
-
-
-### Defining
-* Ramp Down to Real
-* Product Kata
-* [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
+## Validating
+* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
+* [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
+* Rapid Prototyping
+* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
+* The Mom Test
 
 ### Goal Setting
 * Product Increment Sessions
@@ -52,12 +42,10 @@ There are also these fantastic lists of everything product:
 * Discovery Driven Planning
 * Metric Pairing
 
-## Validating
-* Experimenting
-* User Research Sessions
-* Rapid Prototyping
-* Dark Launching
-* The Mom Test
+### Defining
+* Ramp Down to Real
+* Product Kata
+* [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 
 ### Prioritising
 * [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
@@ -65,13 +53,12 @@ There are also these fantastic lists of everything product:
 * Riskiest Assumption Test
 * Prioritising Technical Debt, Bugs and Broken Windows
 
-
-### Delighting
+### Polishing
 * Polishing sprints
 * Discovery sprints
 * Dual track scrum
 
-## Daring
+## 10x not 10%
 * 20%
 * LOFAs
 
