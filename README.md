@@ -11,7 +11,8 @@ The product playbook wants to give people plays they can apply to specific momen
 
 Some of the companies that openly share how they develop product are:
 * [Atlassian](https://www.atlassian.com/team-playbook/plays)
-* [Intercom](https://www.intercom.com/books/product-management)
+* [Intercom on Product Management](https://www.intercom.com/books/product-management)
+* [Basecamp / 37signals - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf)
 
 There are also these fantastic lists of everything product:
 * https://github.com/tron1991/open-product-management
@@ -20,9 +21,8 @@ There are also these fantastic lists of everything product:
 ## The Plays
 
 ### Dreaming - The Vision
-* Product brief
+* [Product brief](https://github.com/colivetree/product-playbook/blob/master/product_brief.md)
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
-* First principles
 
 ### Starting
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
@@ -34,18 +34,18 @@ There are also these fantastic lists of everything product:
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
 * Rapid Prototyping
 * [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
-* The Mom Test
 
 ### Goal Setting
 * Product Increment Sessions
 * OKRs
 * Discovery Driven Planning
-* Metric Pairing
+* Paired Metrics
 
 ### Defining
 * Ramp Down to Real
 * Product Kata
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
+* Kano Model
 
 ### Prioritising
 * [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
@@ -53,13 +53,13 @@ There are also these fantastic lists of everything product:
 * Riskiest Assumption Test
 * Prioritising Technical Debt, Bugs and Broken Windows
 
-### Polishing
+### Balancing and Polishing
 * Polishing sprints
 * Discovery sprints
-* Dual track scrum
+* Dual-track scrum
 
 ## 10x not 10%
-* 20%
+* 20% Time
 * LOFAs
 
 ## Contributing to the Product Playbook
