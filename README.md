@@ -22,14 +22,13 @@ There are also these fantastic lists of everything product:
 ### Dreaming - The Vision
 * Product brief
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
-* First principles
 
 ### Starting
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
 
-## Validating
+## Validated Scaling
 * [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
 * Rapid Prototyping
@@ -37,10 +36,10 @@ There are also these fantastic lists of everything product:
 * The Mom Test
 
 ### Goal Setting
-* Product Increment Sessions
-* OKRs
+* [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
+* [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
 * Discovery Driven Planning
-* Metric Pairing
+* [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
 
 ### Defining
 * Ramp Down to Real
@@ -50,17 +49,17 @@ There are also these fantastic lists of everything product:
 ### Prioritising
 * [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
 * [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
-* Riskiest Assumption Test
-* Prioritising Technical Debt, Bugs and Broken Windows
+* Riskiest Assumption Test - RAT
+* Bugs, Technical Debt and Broken Windows
 
-### Polishing
-* Polishing sprints
-* Discovery sprints
+### Discovering
 * Dual track scrum
-
-## 10x not 10%
 * 20%
 * LOFAs
+
+### Business alignment
+* Program Increments
+* All hands
 
 ## Contributing to the Product Playbook
 * [Play Format](https://github.com/colivetree/product-playbook/blob/master/template.md)
