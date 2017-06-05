@@ -24,16 +24,10 @@ There are also these fantastic lists of everything product:
 * [Product brief](https://github.com/colivetree/product-playbook/blob/master/product_brief.md)
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
 
-### Starting
+### Kick-off
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
-
-## Validated Scaling
-* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
-* [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
-* Rapid Prototyping
-* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
@@ -41,28 +35,32 @@ There are also these fantastic lists of everything product:
 * Discovery Driven Planning
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
 
-### Defining
-* Ramp Down to Real
-* Product Kata
+### Validated Learning
+* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
+* [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
+* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
+* [Melissa Perri's Product Kata]()
+
+### Product Definition
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
-* Kano Model
+* [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
 
 ### Prioritising
-* [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
-* [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
-* Riskiest Assumption Test - RAT
+* [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
+* [**WIP** - Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
+* [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
 * Bugs, Technical Debt and Broken Windows
 
 
-### Discovering
+### Innovating
 * Dual track scrum
 * 20%
 * LOFAs
 
-### Business alignment
+### Business Alignment
 * Program Increments
 * All hands
 
 ## Contributing to the Product Playbook
 * [Play Format](https://github.com/colivetree/product-playbook/blob/master/template.md)
-* [Guidelines]
+* [Guidelines for contributing]
