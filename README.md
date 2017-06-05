@@ -40,7 +40,6 @@ There are also these fantastic lists of everything product:
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
 * Discovery Driven Planning
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
->>>>>>> readme changes
 
 ### Defining
 * Ramp Down to Real
