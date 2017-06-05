@@ -32,7 +32,6 @@ There are also these fantastic lists of everything product:
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
-* Discovery Driven Planning
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
 
 ### Validated Learning
@@ -54,6 +53,7 @@ There are also these fantastic lists of everything product:
 
 ### Innovating
 * Dual track scrum
+* Discovery Driven Planning
 * 20%
 * LOFAs
 
