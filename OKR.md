@@ -20,9 +20,11 @@ Running OKRs provides very clear and tangible objectives for a team and their hi
 * 4) Teams should be prepared to defend their OKRs and how they connect to the overarching goal next to business leadership, who are responsible for challenging the OKRs and their impact on the organisation. Ensure OKRs are interpreted correctly as directional guard-rails and can be challenged if they are discovered to be inept or their connection to the higher level OKR is weaker than assumed. The team should reserve a portion of their time for other non-OKR activities as technical debt, discovery exercises and product and engineering broken windows need to be accounted for. Evolving business needs and interactions with other teams' goals discovered during the running cycle should also be addressed during non-OKR time. This should typically be 30-40% of total team time.
 
 ## Tips and Resources
-* [Rick Klau's OKR Session]()
-* Using OKRs #1
-* Negative OKR usage example #2
+* [Rick Klau's OKR Session](https://www.youtube.com/watch?v=mJB83EZtAjc)
+* [re:Work with Google](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+* [Using OKRs by @niket](https://medium.com/startup-tools/okrs-5afdc298bc28)
+* [OKRs Didn't Work For Us by Contactually](http://blog.contactually.com/inside-contactually-okrs-didnt-work-for-us/)
+
 
 
 ## Related plays:

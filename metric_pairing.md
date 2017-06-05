@@ -18,7 +18,8 @@ Because users are multi-dimensional and metrics need to be used as a useful prox
 * 3) Accept improvements in key metrics ONLY IF there's no negative effect on paired metric (i.e. paired is flat or positive)
 
 ## Tips and Resources
-* Paired Metrics #1
-* Paired Metrics #2
+* [Matty Ford - Paired Metrics](https://mattyford.com/blog/2014/6/11/paired-metrics)
+* [Marc Andreessen on Paired Metrics](http://pmarcatweetsasblogposts.tumblr.com/post/73631082205/measure-performance-with-paired-metrics-for-best)
+* [Andy Grove's High Output Management on Pairing Indicators](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 
 ## Related plays:
