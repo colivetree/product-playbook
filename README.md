@@ -25,7 +25,7 @@ There are also these fantastic lists of everything product:
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
 
 ### Kick-off
-* [**WIP** - Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
+* [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
 
@@ -38,11 +38,12 @@ There are also these fantastic lists of everything product:
 * [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
 * [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
-* [Melissa Perri's Product Kata]()
+* [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 
-### Product Definition
+### Product Definition Frameworks
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 * [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
+* [**WIP** - HEART framework](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
