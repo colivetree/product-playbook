@@ -23,11 +23,12 @@ Experimentation allows teams to assess with a pre-defined level of certainty whe
 * 6. Choose to accept or reject your experiment results, incorporating them into your main codebase.
 
 ## Tips and Resources
-* http://www.evanmiller.org/how-not-to-run-an-ab-test.html
-* http://exp-platform.com/large-scale/
-* http://www.experimentationhub.com
-* https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7
-* https://blog.booking.com/is-your-ab-testing-effort-just-chasing-statistical-ghosts.html
-* http://mcfunley.com/design-for-continuous-experimentation
+* [Evan Miller - How not to run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+* [Microsoft Experimentation](http://exp-platform.com/large-scale/)
+* [Experimentation Hub](http://www.experimentationhub.com)
+* [Experimentation at Airbnb]( https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7)
+* [Booking.com's Chasing Statistical Ghosts]( https://blog.booking.com/is-your-ab-testing-effort-just-chasing-statistical-ghosts.html)
+* [Dan McKinley - Design for Continuous Experimentation]( http://mcfunley.com/design-for-continuous-experimentation)
+* [Hilary Robert's Science and Sensibility - Thoughts on Experimentation and Growth](https://vimeo.com/189598824)
 
 ## Related plays:
