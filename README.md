@@ -40,6 +40,12 @@ There are also these fantastic lists of everything product:
 * [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 * [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
 
+### Rapid Validation
+* Concierge
+* Wizard of Oz
+* Landing Page
+* Ad Campaigns
+
 ### Product Definition Frameworks
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 * [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
@@ -47,7 +53,7 @@ There are also these fantastic lists of everything product:
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
-* [**WIP** - Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
+* [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
 * [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
 * [Bugs, Technical Debt and Broken Windows](https://github.com/colivetree/product-playbook/blob/master/prioritising_bugs.md)
 
