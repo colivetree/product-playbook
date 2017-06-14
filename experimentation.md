@@ -14,13 +14,14 @@ Experimentation allows teams to assess with a pre-defined level of certainty whe
 * Users
 
 ## How to Run
-* 0. Familiarize yourself with common experimentation pitfalls.
-* 1. Define a hypothesis based on a known insight or customer problem - A good resource to understand how these should be formulated is the [hypothesis kit](http://www.experimentationhub.com/hypothesis-kit.html)
-* 2. Establish how that hypothesis can be tested - What changes need to be made, what metrics it will affect (OEC).
-* 3. Determine the Minimum Detectable Effect (MDE), the change to the metrics that can be measured within a certain timeframe (which should also be defined). A good resource is the [AB Test Guide Calculator's Pre-Test Analysis](https://abtestguide.com/calc/). Choose a two-sided test if you wish to be confident about negative effects as well. Typically, tests are run at 95% confidence (p<0.05).
-* 4. Run the experiment for the defined period of time - NOT until you reach statistical significance.
-* 5. Collect results and analyse them according to your OEC.
-* 6. Choose to accept or reject your experiment results, incorporating them into your main codebase.
+
+* 0) Familiarize yourself with common experimentation pitfalls. This play assumes a *frequentist* approach to AB Testing. For a Bayesian approach you need to establish priors, not contemplated on this guide.
+* 1) Define a hypothesis based on a known insight or customer problem - A good resource to understand how these should be formulated is the [hypothesis kit](http://www.experimentationhub.com/hypothesis-kit.html)
+* 2) Establish how that hypothesis can be tested - What changes need to be made, what metrics it will affect (OEC).
+* 3) Determine the Minimum Detectable Effect (MDE), the change to the metrics that can be measured within a certain timeframe (which should also be defined). A good resource is the [AB Test Guide Calculator's Pre-Test Analysis](https://abtestguide.com/calc/). Choose a two-sided test if you wish to be confident about negative effects as well. Typically, tests are run at 95% confidence (p<0.05).
+* 4) Run the experiment for the defined period of time - NOT until you reach statistical significance.
+* 5) Collect results and analyse them according to your OEC.
+* 6) Choose to accept or reject your experiment results, incorporating them into your main codebase.
 
 ## Tips and Resources
 * [Evan Miller - How not to run an A/B Test](http://www.evanmiller.org/how-not-to-run-an-ab-test.html)
@@ -30,5 +31,6 @@ Experimentation allows teams to assess with a pre-defined level of certainty whe
 * [Booking.com's Chasing Statistical Ghosts]( https://blog.booking.com/is-your-ab-testing-effort-just-chasing-statistical-ghosts.html)
 * [Dan McKinley - Design for Continuous Experimentation]( http://mcfunley.com/design-for-continuous-experimentation)
 * [Hilary Robert's Science and Sensibility - Thoughts on Experimentation and Growth](https://vimeo.com/189598824)
+* [ConversionXL - Frequentist vs Bayesian Experimentation](https://conversionxl.com/bayesian-frequentist-ab-testing/)
 
 ## Related plays:
