@@ -51,13 +51,13 @@ There are also these fantastic lists of everything product:
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 * [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
 * [**WIP** - HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
-* [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
 * [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
 * [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
 * [Bugs, Technical Debt and Broken Windows](https://github.com/colivetree/product-playbook/blob/master/prioritising_bugs.md)
+* [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
 
 
 ### Innovating
