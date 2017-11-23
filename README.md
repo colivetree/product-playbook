@@ -28,7 +28,6 @@ There are also these fantastic lists of everything product:
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
-* [Assumption Mapping](https://github.com/colivetree/product-playbook/blob/master/assumption_mapping.md)
 
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
@@ -40,6 +39,7 @@ There are also these fantastic lists of everything product:
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
 * [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 * [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
+* [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
 
 ### Rapid Validation
 * Concierge
@@ -51,6 +51,7 @@ There are also these fantastic lists of everything product:
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 * [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
 * [**WIP** - HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
+* [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
@@ -60,7 +61,7 @@ There are also these fantastic lists of everything product:
 
 
 ### Innovating
-* Dual-track scrum
+* Dual track scrum
 * Discovery Driven Planning
 * 20%
 * LOFAs
