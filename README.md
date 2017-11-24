@@ -33,6 +33,7 @@ There are also these fantastic lists of everything product:
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
+* [HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
 
 ### Validated Learning
 * [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
@@ -50,7 +51,6 @@ There are also these fantastic lists of everything product:
 ### Product Definition Frameworks
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
 * [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
-* [**WIP** - HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
