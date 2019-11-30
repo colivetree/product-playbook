@@ -28,12 +28,14 @@ There are also these fantastic lists of everything product:
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
+* One-pager
 
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
 * [HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
+* Strategy Matrix
 
 ### Validated Learning
 * [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
@@ -63,12 +65,12 @@ There are also these fantastic lists of everything product:
 
 
 ### Innovating
-* Dual track scrum
-* Discovery Driven Planning
+* Discovery-driven Planning
 * 20%
 * LOFAs
 
 ### Business Alignment
+* Betting Cards
 * Program Increments
 * All hands
 
