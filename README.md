@@ -28,7 +28,7 @@ There are also these fantastic lists of everything product:
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
-* One-pager
+* [One-pager](https://github.com/colivetree/product-playbook/blob/master/one_pager.md)
 
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
