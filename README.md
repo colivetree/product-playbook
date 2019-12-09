@@ -12,7 +12,7 @@ The product playbook wants to give people plays they can apply to specific momen
 Some of the companies that openly share how they develop product are:
 * [Atlassian](https://www.atlassian.com/team-playbook/plays)
 * [Intercom on Product Management](https://www.intercom.com/books/product-management)
-* [Basecamp / 37signals - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf)
+* [Basecamp - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf) / [Basecamp - Shape Up](https://basecamp.com/shapeup) 
 
 There are also these fantastic lists of everything product:
 * https://github.com/tron1991/open-product-management
@@ -64,7 +64,7 @@ There are also these fantastic lists of everything product:
 * [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
 
 
-### Innovating
+### Discovery
 * Discovery-driven Planning
 * 20%
 * LOFAs
