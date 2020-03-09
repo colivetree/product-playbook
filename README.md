@@ -45,7 +45,7 @@ There are also these fantastic lists of everything product:
 * [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
 * [Design Critique](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
 * [Confidence Check](https://github.com/colivetree/product-playbook/blob/master/confidence_check.md)
-* [Story Mapping](https://github.com/colivetree/product-playbook/blob/master/story mapping.md)
+* [Story Mapping](https://github.com/colivetree/product-playbook/blob/master/story_mapping.md)
 
 ### Rapid Validation
 * Concierge
