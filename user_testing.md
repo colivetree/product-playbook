@@ -29,5 +29,7 @@ To quickly get feedback on what might be preventing customers from making progre
 * https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
 * https://medium.com/@jhreha/how-to-run-a-quick-effective-user-test-for-25-or-less-bc2cf3706787
 * https://www.uxpin.com/studio/blog/how-to-run-an-insightful-usability-test/
-
+* https://www.usertesting.com/
+* https://www.nngroup.com/articles/live-intercept-remote-test/
+* https://usabilityhub.com/
 ## Related plays:

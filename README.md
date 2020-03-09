@@ -1,4 +1,4 @@
-# product-playbook
+# The Product Playbook
 A Playbook of Product Management Techniques
 
 ## Intro
@@ -11,7 +11,8 @@ The product playbook wants to give people plays they can apply to specific momen
 
 Some of the companies that openly share how they develop product are:
 * [Atlassian](https://www.atlassian.com/team-playbook/plays)
-* [Intercom](https://www.intercom.com/books/product-management)
+* [Intercom on Product Management](https://www.intercom.com/books/product-management)
+* [Basecamp - Getting Real](https://basecamp.com/about/books/Getting%20Real.pdf) / [Basecamp - Shape Up](https://basecamp.com/shapeup) 
 
 There are also these fantastic lists of everything product:
 * https://github.com/tron1991/open-product-management
@@ -20,47 +21,60 @@ There are also these fantastic lists of everything product:
 ## The Plays
 
 ### Dreaming - The Vision
-* Product brief
+* [Product brief](https://github.com/colivetree/product-playbook/blob/master/product_brief.md)
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
 
-### Starting
+### Kick-off
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
 * [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
-
-## Validated Scaling
-* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
-* [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
-* Rapid Prototyping
-* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
-* The Mom Test
+* [One-pager](https://github.com/colivetree/product-playbook/blob/master/one_pager.md)
 
 ### Goal Setting
 * [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
-* Discovery Driven Planning
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
+* [HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
+* Strategy Matrix
 
-### Defining
-* Ramp Down to Real
-* Product Kata
+### Validated Learning
+* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
+* [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
+* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
+* [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
+* [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
+* [Design Critique](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
+* [Confidence Check](https://github.com/colivetree/product-playbook/blob/master/confidence_check.md)
+* [Story Mapping](https://github.com/colivetree/product-playbook/blob/master/story mapping.md)
+
+### Rapid Validation
+* Concierge
+* Wizard of Oz
+* Landing Page
+* Ad Campaigns
+
+### Product Definition Frameworks
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
+* [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
 
 ### Prioritising
-* [RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
+* [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
 * [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
-* Riskiest Assumption Test - RAT
-* Bugs, Technical Debt and Broken Windows
+* [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
+* [Bugs, Technical Debt and Broken Windows](https://github.com/colivetree/product-playbook/blob/master/prioritising_bugs.md)
+* [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
 
-### Discovering
-* Dual track scrum
+
+### Discovery
+* Discovery-driven Planning
 * 20%
 * LOFAs
 
-### Business alignment
+### Business Alignment
+* Betting Cards
 * Program Increments
 * All hands
 
 ## Contributing to the Product Playbook
 * [Play Format](https://github.com/colivetree/product-playbook/blob/master/template.md)
-* [Guidelines]
+* [Guidelines for contributing]
