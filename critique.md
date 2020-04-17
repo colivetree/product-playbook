@@ -28,6 +28,7 @@ One way to run a critique that ensures feedback is as just and direct as possibl
 * [How to Run a Design Critique](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 * [Creativity Inc](https://www.amazon.co.uk/dp/0593070097/ref=cm_sw_em_r_mt_dp_U_CKS4Db9PCH9JE)
 * [GV Guide to Design Critiques](https://library.gv.com/guide-to-design-critique-86ebf499bed5?gi=9e058d758892)
+* [Fast Co - Want to build a culture of innovation? master the design critique](https://medium.com/fast-company/want-to-build-a-culture-of-innovation-master-the-design-critique-2e302ee4a18a)
 
 ## Related plays:
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)

@@ -43,7 +43,7 @@ There are also these fantastic lists of everything product:
 * [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 * [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
 * [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
-* [Design Critique](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
+* [Design Critique](https://github.com/colivetree/product-playbook/blob/master/critique.md)
 * [Confidence Check](https://github.com/colivetree/product-playbook/blob/master/confidence_check.md)
 * [Story Mapping](https://github.com/colivetree/product-playbook/blob/master/story_mapping.md)
 
