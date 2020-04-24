@@ -21,10 +21,11 @@ o	Team Members
 4.	Write the User Manual. The user manual is what a customer will use to really find out about what the product is and how they will use it. The user manual typically has three sections, concepts, how-to, and reference, which between them tell the customer everything they need to know to use the product. For products with more than one kind of user, we write more than one user manual.
 
 ## Tips and Resources
-https://www.quora.com/Amazon-company-What-is-Amazons-approach-to-product-development-and-product-management/answer/Ian-McAllister
-http://www.allthingsdistributed.com/2006/11/working_backwards.html
-https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-new-products-867703682934#.7iynwgu0t
-[What is your product all about? – Prototyping: From UX to Front End](https://blog.prototypr.io/developing-products-by-questioning-the-vision-41ad14b2555e?source=user_profile---------6-----------)
+* https://www.quora.com/Amazon-company-What-is-Amazons-approach-to-product-development-and-product-management/answer/Ian-McAllister
+* http://www.allthingsdistributed.com/2006/11/working_backwards.html
+* https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-new-products-867703682934#.7iynwgu0t
+* [What is your product all about? – Prototyping: From UX to Front End](https://blog.prototypr.io/developing-products-by-questioning-the-vision-41ad14b2555e)
+* https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/
 
 ## Related plays:
 Jobs-to-be-Done Sessions
