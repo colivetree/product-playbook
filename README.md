@@ -20,49 +20,50 @@ There are also these fantastic lists of everything product:
 
 ## The Plays
 
-### Dreaming - The Vision
+### Vision & Strategy
 * [Product brief](https://github.com/colivetree/product-playbook/blob/master/product_brief.md)
 * [Positioning](https://github.com/colivetree/product-playbook/blob/master/product_positioning.md)
-
-### Kick-off
-* [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
+* [DIBBs](https://github.com/colivetree/product-playbook/blob/master/DIBBs.md)
 * [Working Backwards](https://github.com/colivetree/product-playbook/blob/master/working_backwards.md)
-* [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
 * [One-pager](https://github.com/colivetree/product-playbook/blob/master/one_pager.md)
 
 ### Goal Setting
-* [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [OKRs](https://github.com/colivetree/product-playbook/blob/master/OKR.md)
 * [Metric Pairing](https://github.com/colivetree/product-playbook/blob/master/metric_pairing.md)
 * [HEART & Goals, Signals, Metrics](https://github.com/colivetree/product-playbook/blob/master/heart_framework.md)
-* Strategy Matrix
+* [North Star Framework](https://github.com/colivetree/product-playbook/blob/master/north_star_framework.md)
 
-### Validated Learning
-* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
+### Product Discovery
+* [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
-* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
-* [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
 * [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
-* [Design Critique](https://github.com/colivetree/product-playbook/blob/master/critique.md)
-* [Confidence Check](https://github.com/colivetree/product-playbook/blob/master/confidence_check.md)
+
+### Alignment
+* [Product Increment Sessions](https://github.com/colivetree/product-playbook/blob/master/product_increments.md)
 * [Story Mapping](https://github.com/colivetree/product-playbook/blob/master/story_mapping.md)
-
-### Rapid Validation
-* Concierge
-* Wizard of Oz
-* Landing Page
-* Ad Campaigns
-
-### Product Definition Frameworks
 * [Job Canvas](https://github.com/colivetree/product-playbook/blob/master/job_canvas.md)
-* [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
+
+### Testing
+* [Experimentation](https://github.com/colivetree/product-playbook/blob/master/experimentation.md)
+* [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
+* [Confidence Check](https://github.com/colivetree/product-playbook/blob/master/confidence_check.md)
+* [Design Critique](https://github.com/colivetree/product-playbook/blob/master/critique.md)
+* [Dark Launch](https://github.com/colivetree/product-playbook/blob/master/dark_launch.md)
 
 ### Prioritising
 * [Reach Impact Confidence and Effort - RICE](https://github.com/colivetree/product-playbook/blob/master/prioritisation_rice.md)
 * [Sankey Diagram of Needs](https://github.com/colivetree/product-playbook/blob/master/sankey_diagram_needs.md)
-* [Riskiest Assumption Test - RAT](https://github.com/colivetree/product-playbook/blob/master/riskiest_assumption_test.md)
-* [Bugs, Technical Debt and Broken Windows](https://github.com/colivetree/product-playbook/blob/master/prioritising_bugs.md)
 * [Action Priority Matrix](https://github.com/colivetree/product-playbook/blob/master/action_priority_matrix.md)
+* [Bugs, Technical Debt and Broken Windows](https://github.com/colivetree/product-playbook/blob/master/prioritising_bugs.md)
+* [Kano Model](https://github.com/colivetree/product-playbook/blob/master/kano_model.md)
+
+### Validated Learning
+* [Spikes](https://github.com/colivetree/product-playbook/blob/master/spikes.md)
+* [Melissa Perri's Product Kata](https://github.com/colivetree/product-playbook/blob/master/product_kata.md)
+
+
+
+
 
 
 ### Discovery
