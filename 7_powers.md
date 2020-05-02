@@ -1,4 +1,4 @@
-# DIBBs
+# 7 Powers
 
 ## Intro
 
@@ -21,4 +21,3 @@
 
 
 ## Related plays:
-* [DIBBs Spotify](https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm)

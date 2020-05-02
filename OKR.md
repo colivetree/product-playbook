@@ -25,6 +25,4 @@ Running OKRs provides very clear and tangible objectives for a team and their hi
 * [Using OKRs by @niket](https://medium.com/startup-tools/okrs-5afdc298bc28)
 * [OKRs Didn't Work For Us by Contactually](http://blog.contactually.com/inside-contactually-okrs-didnt-work-for-us/)
 
-
-
 ## Related plays:
