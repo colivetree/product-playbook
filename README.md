@@ -18,6 +18,7 @@ There are also these fantastic lists of everything product:
 * https://github.com/tron1991/open-product-management
 * https://platformsandnetworks.blogspot.co.uk/p/resources-product-management.html
 * https://www.sachinrekhi.com/top-resources-for-product-managers
+* https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37?u
 
 ## The Plays
 
