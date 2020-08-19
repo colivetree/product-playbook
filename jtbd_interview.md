@@ -25,7 +25,6 @@ Don't be afraid to get into the weeds with them. When exactly did they buy it, w
 "When I want to..." for pushes, and "so I can..." for pulls. 
 4) A lot of teams then try to synthesize and prioritize JTBD via clustering techniques. Some interesting ones are simple euclidian method like the one presented by Ryan Singer, and that contained in Strategyn's Outcome Driven Innovation, or a "simpler" team exercise in synthesis. See the resources below for detail.
 
-
 ## Tips and Resources
 * https://www.intercom.com/blog/podcasts/podcast-bob-moesta-on-jobs-to-be-done/
 * https://www.youtube.com/watch?v=ek0yAdEkbgA
@@ -34,3 +33,4 @@ Don't be afraid to get into the weeds with them. When exactly did they buy it, w
 * https://pt.slideshare.net/marklittlewood/bob-moesta-founder-the-rewired-group-jtbd-workshop
 * https://www.youtube.com/watch?v=qQFUHapOJsQ
 * https://www.youtube.com/watch?v=2ecwXEnQ6xY
+* [JTBD Forces Diagram](https://github.com/colivetree/product-playbook/blob/master/images/jtbd-forces.png)
