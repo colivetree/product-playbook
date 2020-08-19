@@ -39,6 +39,7 @@ There are also these fantastic lists of everything product:
 ### Product Discovery
 * [Design Sprint](https://github.com/colivetree/product-playbook/blob/master/design_sprint.md)
 * [User Testing Sessions](https://github.com/colivetree/product-playbook/blob/master/user_testing.md)
+* [JTBD Interview](https://github.com/colivetree/product-playbook/blob/master/jtbd_interview.md)
 * [Opportunity Solution Tree](https://github.com/colivetree/product-playbook/blob/master/opportunity_solution_tree.md)
 
 ### Alignment
